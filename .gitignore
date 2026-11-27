@@ -1,0 +1,16 @@
+# Build output
+bin/
+out/
+*.class
+
+# Runtime data (accounts, profiles)
+users.txt
+profiles/
+
+# IDE / OS
+.settings/
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
